@@ -1,2 +1,6 @@
 # ItalianPlugins-PM
-Translation files for PocketMine plugins
+Traduciamo i plugin in Italiano! yee!
+
+**Si accettano richieste nella sezione "Issue"**
+
+**Si cercano collaboratori!**

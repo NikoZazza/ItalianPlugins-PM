@@ -1,0 +1,195 @@
+---
+#SignShop Copyright (C) 2015 xionbig
+#Per le versioni 1.1.0, 1.1.1, 1.1.2
+#Rinomina questo file in "message.yml" e mettilo nella cartella resources
+The_Signs_in_the_world_@@_have_been_put_back:
+  message: I cartelli del mondo @@ sono stati rimessi
+  alert: success
+The_world_@@_was_not_found:
+  message: Il mondo @@ non è stato trovato
+  alert: error
+All_the_Signs_have_been_put_back:
+  message: Tutti i Cartelli sono stati rimessi
+  alert: succes
+There_are_no_Signs_spammed:
+  message: Non ci sono cartelli presenti nel server
+  alert: error
+You_have_authorized_@@_to_use_the_command_/sign:
+  message: Hai autorizzato il giocatore @@ ad usare il comando /sign
+  alert: success
+The_player_@@_is_not_exists:
+  message: Il giocatore @@ non esiste
+  alert: warning
+Invalid_arguments:
+  message: Argomenti non validi
+  alert: error
+You_have_unauthorized_@@_to_use_the_command_/sign:
+  message: Hai negato il giocatore @@ ad usare il comando /sign
+  alert: succsee
+You_have_authorized_@@_to_create_the_Signs_without_the_blocks_in_the_inventory:
+  message: Hai autorizzato il giocatore @@ a creare i cartelli senza blocchi nell'inventario
+  alert: success
+The_player_@@_is_authorized_to_run_the_command_/sign:
+  message: Il giocatore @@ è autorizzato ad eseguire il comando /sign
+  alert: info
+The_player_@@_is_not_authorized_to_run_the_command_/sign:
+  message: Il giocatore @@ non è autorizzato a eseguire il comando /sign
+  alert: info
+The_command_<@@>_was_not_found!_Use_/sign_help:
+  message: Il comando <@@> non è stato trovato! Usa /sign help
+  alert: error
+Now_@@_can_use_the_command_/sign:
+  message: Ora il giocatore @@ può utilizzare il comando /sign
+  alert: success
+all:
+  message: tutti
+  alert: success
+admin:
+  message: admin
+  alert: success
+The_action_has_been_executed_successfully:
+  message: L'azione è stata eseguita con successo
+  alert: success
+Now_touch_on_the_Sign_that_you_want_to_do_this_action:
+  message: Ora toccare il cartello sul quale vuoi eseguire questa azione
+  alert: info
+Invalid_value_of_@@:
+  message: Il valore di @@ non valido
+  alert: error
+amount:
+  message: quantità
+  alert: error
+cost:
+  message: costo
+  alert: error
+maker:
+  message: creatore
+  alert: error
+available:
+  message: oggeti disponibili
+  alert: error
+item:
+  message: oggetto
+  alert: error
+player:
+  message: giocatore
+  alert: error
+You_are_not_authorized_to_run_this_command:
+  message: Non sei autorizzato ad eseguire questo comando
+  alert: warning
+The_selected_Sign_is_not_your:
+  message: Il cartello selezionato non è il tuo
+  alert: error
+The_Sign_successfully_removed:
+  message: Il cartello è stato rimosso con successo
+  alert: success
+You_need_to_free_up_space_from_your_inventory_to_remove_this_Sign:
+  message: È necessario liberare lo spazio dal tuo inventario per rimuovere questo cartello
+  alert: warning
+Sign_successfully_created:
+  message: Cartello creato con successo
+  alert: success
+The_item_was_not_found_or_does_not_have_enough_items:
+  message: L'oggetto non è stato trovato o non ha abbastanza blocchi
+  alert: error
+There_is_a_problem_with_the_creation_of_the_Sign:
+  message: C'è un problema con la creazione del cartello
+  alert: error
+The_owner_has_earned_@@:
+  message: Il proprietario ha guadagnato @@
+  alert: info
+This_Sign_is_owned_by_@@:
+  message: Questo cartello è di proprietà di @@
+  alert: info
+There_are_still_@@_blocks/items:
+  message: Ci sono ancora @@ blocchi/oggetti
+  alert: info
+They_were_sold_@@_blocks/items_with_this_Sign:
+  message: Sono stati venduti @@ blocchi/oggetti con questo cartello
+  alert: info
+The_Sign_was_stocked_with_success:
+  message: Il cartello è stato rifornito con successo
+  alert: success
+You_do_not_have_enough_blocks_to_fill_the_Sign:
+  message: Non sono abbastanza blocchi per rifornire il cartello
+  alert: error
+You_set_the_available_of_the_Sign_in_@@:
+  message: Hai impostato il numero degli oggetti disponibili a @@
+  alert: info
+You_set_the_amount_of_the_Sign_in_@@:
+  message: Hai impostato il numero della quantità a @@
+  alert: info
+The_cost_of_the_contents_of_this_Sign_is_now_@@:
+  message: Il costo del contenuto di questo cartello è ora di @@
+  alert: info
+Now_this_Sign_is_owned_by_@@:
+  message: Ora questo cartello è di proprietà di @@
+  alert: success
+You_can_not_buy_from_your_Sign:
+  message: Non può comprare dal tuo cartello
+  alert: error
+payment_from_@@:
+  message: pagamento da parte di @@
+  alert: info
+You_can_not_buy_or_sell_in_creative:
+  message: Non puoi comprare o vendere in modalità creativa
+  alert: error
+Now_this_Sign_has_the_unlimited_available:
+  message: Ora questo cartello ha illimitati oggetti
+  alert: success
+You_do_not_have_enough_money:
+  message: Non hai abbastanza soldi
+  alert: warning
+The_content_of_the_Sign_is_sold_out:
+  message: Il contenuto del cartello è vuoto
+  alert: warning
+You_bought_the_contents_of_the_Sign:
+  message: Hai comprato il contenuto dal cartello
+  alert: success
+You_do_not_have_the_space_to_buy_the_contents_of_this_Sign:
+  message: Non hai abbastanza spazio per acquistare il contenuto di questo cartello
+  alert: warning
+This_command_must_be_run_from_the_console:
+  message: Questo comando deve essere eseguito da console
+  alert: warning
+You_can_not_create_the_Signs_from_the_creative_mode:
+  message: Non puoi creare i cartelli in modalità creativa
+  alert: warning
+You_need_space_to_get_the_items_from_the_Sign:
+  message: Hai bisogno di spazio per acquistare gli oggetti del cartello
+  alert: warning
+The_amount_must_be_less_than_@@:
+  message: L'importo deve essere meno di @@
+  alert: error
+This_sign_is_not_registered:
+  message: Questo cartello non è registrato
+  alert: warning
+You_do_not_have_enough_space_to_get_the_contents_of_the_Sign:
+  message: Non si dispone di spazio sufficiente per ottenere il contenuto del Segno
+  alert: warning
+You_have_successfully_sold_the_items:
+  message: Hai venduto con successo gli oggetti
+  alert: success
+The_Sign_is_full:
+  message: Il cartello è pieno
+  alert: warning
+The_Sign_is_empty:
+  message: Il cartello è vuoto
+  alert: warning
+The_Sign_has_been_emptied_successfully:
+  message: Il cartello è stato svuotato con successo
+  alert: success
+This_feature_is_not_yet_available_for_SignSell:
+  message: Questa funzione non è ancora disponibile per SignSell
+  alert: error
+The_amount_of_the_Sign_is_unlimited:
+  message: La quantità degli oggetti del cartello è illimitato
+  alert: warning
+You_can_not_sell_your_items_to_your_Sign,_if_you_want_you_can_empty_it_executing_the_command_/sign_empty:
+  message: Non puoi vendere i tuoi oggetti al tuo cartello, se si desidera, è possibile svuotare il cartello eseguendo il comando /sign empty
+  alert: error
+The_maker_of_Sign_does_not_have_enough_money_to_give_you_the_money:
+  message: Il creatore del cartello non ha abbastanza soldi per dare a te i soldi
+  alert: error
+version_mex: oneone
+...
